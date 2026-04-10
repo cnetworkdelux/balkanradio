@@ -234,6 +234,12 @@ http://stream1.srvnetplus.com:8013
 #EXTINF:-1 radio="true" tvg-id="radiozrenjanin" tvg-name="Radio Zrenjanin" group-title="RS" tvg-logo="https://i.imgur.com/nuqMiEd.png",Radio Zrenjanin
 https://radio.dukahosting.com:7031/
 
+#EXTINF:-1 radio="true" tvg-id="radiouzice" tvg-name="Radio Uzice" group-title="RS" tvg-logo="https://i.imgur.com/f8kJ7ZQ.png",Radio Uzice
+https://uzice.yunethosting.net/stream
+
+#EXTINF:-1 radio="true" tvg-id="radiobelleamie" tvg-name="Radio Belle Amie Nis" group-title="RS" tvg-logo="https://i.imgur.com/ILvoMda.png",Radio Belle Amie Nis
+http://92.60.239.23:8000/
+
 #EXTINF:-1 radio="true" tvg-id="radiosljivovicakraljevo" tvg-name="Radio Sljivovica Kraljevo" group-title="RS" tvg-logo="https://i.imgur.com/4MUmUzJ.png",Radio Sljivovica Kraljevo
 https://stream.iradio.pro/proxy/radiosljivovica
 
