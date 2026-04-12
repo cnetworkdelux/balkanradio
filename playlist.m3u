@@ -270,20 +270,23 @@ http://uzivo.radiopingvin.com/domaci1
 #EXTINF:-1 radio="true" tvg-id="radiovrnjackabanja" tvg-name="Radio Vrnjacka Banja" group-title="RS" tvg-logo="https://i.imgur.com/EBR7IvT.png",Radio Vrnjacka Banja
 https://live.rtvvrnjackabanja.com/rvb.mp3
 
-#EXTINF:-1 radio="true" tvg-id="Radio Porto Montenegro" tvg-name="Otvoreni radio" group-title="ME" tvg-logo="https://i.imgur.com/s6yOQ9z.png",Radio Porto Montenegro
-https://malta1491.startdedicated.de:8443/main
-
 #EXTINF:-1 radio="true" tvg-id="RadioCrneGore" tvg-name="Radio Crne Gore" group-title="ME" tvg-logo="https://i.imgur.com/RWmCFDc.png",Radio Crne Gore
 https://rtcgradio-live.morescreens.com/RTCG_1_010/audio/chunklist.m3u8
-
-#EXTINF:-1 radio="true" tvg-id="RadioCrneGore2R98" tvg-name="Radio Crne Gore 2 R98" group-title="ME" tvg-logo="https://i.imgur.com/ZMwcPiH.png",Radio Crne Gore 2 R98
-https://rtcgradio-live.morescreens.com/RTCG_1_011/audio/chunklist.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="RCGYug" tvg-name="RCG Yug" group-title="ME" tvg-logo="https://i.imgur.com/IkCI9iY.png",RCG Yug
 https://rtcgradio-live.morescreens.com/RTCG_2_004/chunklist.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="RCGMillenium" tvg-name="RCG Millenium" group-title="ME" tvg-logo="https://i.imgur.com/258FgPP.png",RCG Millenium
 https://rtcgradio-live.morescreens.com/RTCG_2_002/chunklist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="drugacijaradiostanica" tvg-name="Drugacija Radio Stanica" group-title="ME" tvg-logo="https://i.imgur.com/tmmsr94.png",Drugacija Radio Stanica
+http://178.33.135.245:3474/stream
+
+#EXTINF:-1 radio="true" tvg-id="elmagradio" tvg-name="Elmag Radio" group-title="ME" tvg-logo="https://i.imgur.com/mVuGwYF.png",Elmag Radio
+https://radio.elmag.me/elmag.mp3
+
+#EXTINF:-1 radio="true" tvg-id="Radio Porto Montenegro" tvg-name="Otvoreni radio" group-title="ME" tvg-logo="https://i.imgur.com/s6yOQ9z.png",Radio Porto Montenegro
+https://malta1491.startdedicated.de:8443/main
 
 #EXTINF:-1 radio="true" tvg-id="Otvoreni radio" tvg-name="Otvoreni radio" group-title="HR" tvg-logo="https://i.imgur.com/jrrztV8.png",Otvoreni radio
 http://stream.otvoreni.hr/otvoreni
